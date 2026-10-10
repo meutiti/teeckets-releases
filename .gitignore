@@ -1,0 +1,15 @@
+# Les archives sont des pièces jointes de releases, jamais des fichiers Git.
+artifacts/
+*.zip
+*.dmg
+*.dmg.sha256
+*.delta
+.DS_Store
+
+# Aucun secret de signature dans ce dépôt public.
+*.key
+*.pem
+*.p12
+*.p8
+.env
+.env.*
