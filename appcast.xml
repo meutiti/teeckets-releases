@@ -1,13 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><!-- sparkle-sign-warning:
 IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
 --><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
-  <channel>
-    <title>Teeckets</title>
-    <link>https://github.com/meutiti/teeckets-releases/releases</link>
-    <description>Mises à jour de Teeckets pour macOS.</description>
-    <language>fr</language>
-  </channel>
+    <channel>
+        <title>Teeckets</title>
+        <link>https://github.com/meutiti/teeckets-releases/releases</link>
+        <description>Mises à jour de Teeckets pour macOS.</description>
+        <language>fr</language>
+        <item>
+            <title>0.1.0</title>
+            <pubDate>Thu, 15 Oct 2026 11:06:33 +0200</pubDate>
+            <sparkle:version>20261015085627</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/meutiti/teeckets-releases/releases/download/v0.1.0/Teeckets-0.1.0-20261015085627-macOS-arm64.zip" length="250290432" type="application/octet-stream" sparkle:edSignature="lDRRpaP7zAfUz1FYUdxWR9Hthb34DJ9jPgiMHrUu6tw2rDjrulFslaNnoJD+iO4eNqqlJfu1WfrVHnUnrmcJBg=="></enclosure>
+        </item>
+    </channel>
 </rss><!-- sparkle-signatures:
-edSignature: CsFpmriDg+VwvNfXFfRWShgjNdrwkMTWZ91OrZcH9Zf9QIBEJBUoNoOJjlrpcpPn3lbLtR9MUMbhWfL6sHbNDA==
-length: 606
+edSignature: m5A1J1voWjFF/tZCgHBJOFbU771ohxFkFm5qNhYZWFk4i1Y4bQ8io5xg65N/+NrWUr5kBkx8Sj8idhSizMeUCA==
+length: 1367
 -->
