@@ -1,11 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><!-- sparkle-sign-warning:
 IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
---><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+--><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:teeckets="https://teeckets.app/xml-namespaces/updates" version="2.0">
     <channel>
         <title>Teeckets</title>
         <link>https://github.com/meutiti/teeckets-releases/releases</link>
         <description>Mises à jour de Teeckets pour macOS.</description>
         <language>fr</language>
+        <item>
+            <title>0.2.0</title>
+            <pubDate>Sat, 31 Oct 2026 23:22:54 +0100</pubDate>
+            <sparkle:version>20261031221539</sparkle:version>
+            <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/meutiti/teeckets-releases/releases/download/v0.2.0/Teeckets-0.2.0-20261031221539-macOS-arm64.zip" length="189590479" type="application/octet-stream" sparkle:edSignature="eYrMjYSsdPjAuQzN2VDgHzDTnLav7pI6Ze3JMA89hPIghR2dap/EMB2iuWfp8OAcZcRRaNR4XG7LM/7Jm1QuAg=="></enclosure>
+        </item>
         <item>
             <title>0.1.22</title>
             <pubDate>Mon, 26 Oct 2026 10:50:47 +0100</pubDate>
@@ -215,6 +224,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: TgBpRKJ5zW26t7hDjOGg5JCvjvOi/dLkqrA01fXg9vLWZC7OlJoaj8UhlqiSDqwPT8R31aFig/7RvgOMYIVOCw==
-length: 17721
+edSignature: ye/j669XrQNLhL3LKdPXFly1KBIjuYDh5Ayrp3XuovZPvA4J4GNUvzOTAtI/KNh39fOutae6x/oOiC6s6REtDg==
+length: 18523
 -->
