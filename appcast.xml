@@ -7,6 +7,15 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <description>Mises à jour de Teeckets pour macOS.</description>
         <language>fr</language>
         <item>
+            <title>0.6.6</title>
+            <pubDate>Wed, 18 Nov 2026 19:44:51 +0100</pubDate>
+            <sparkle:version>20261118183944</sparkle:version>
+            <sparkle:shortVersionString>0.6.6</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/meutiti/teeckets-releases/releases/download/v0.6.6/Teeckets-0.6.6-20261118183944-macOS-arm64.zip" length="193546634" type="application/octet-stream" sparkle:edSignature="e27j+WLoXQeDpY/YEwEGbgaYTFBDw6az336tutfu7+WgIuU2iIbYeJ0nFDHp8LqBTdDPt2csWWyopj8eXKR8AQ=="></enclosure>
+        </item>
+        <item>
             <title>0.6.5</title>
             <pubDate>Sun, 08 Nov 2026 19:34:09 +0100</pubDate>
             <sparkle:version>20261108182616</sparkle:version>
@@ -332,6 +341,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: O/hwvnYeic+SOzIZ4FlZooIjqXXewPK9I+YUt9Y6YbOPMy6m+IPwdYEZ63HBTXXijW1FT3AtRXUZACdlbKMhBw==
-length: 27415
+edSignature: GwcrwtcCI2WVYvBPWMB58GaLDBe9odNmReN2G2apRMgdstiqw57kOFWxSxTAwLL8p24qHkuVsynX6EcDmGymAQ==
+length: 28156
 -->
